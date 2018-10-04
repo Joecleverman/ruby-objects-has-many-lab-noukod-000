@@ -14,7 +14,7 @@ class Author
   #   post.author = self
   # end
 
-    post = Post.new(title)
+    #post = Post.new(title)
     post.author = self
   end
   def posts
